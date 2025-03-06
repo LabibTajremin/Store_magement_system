@@ -1,1 +1,1 @@
-# Hotel_magement_sysytem
+# Inventory_magement_sysytem
